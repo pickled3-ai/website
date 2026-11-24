@@ -1,0 +1,4 @@
+design-references/
+node_modules/
+.next/
+.env.local
